@@ -1,0 +1,52 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+}
+
+header {
+    background-color: red;
+}
+
+.row-container {
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+}
+.item-1 {
+    height: 5rem;
+    width: 10rem;
+    position: relative;
+    right: 15px;
+}
+
+.item-2 {
+    height:5rem;
+    width: 10rem;
+}
+
+.row-container-2 {
+    display: flex;
+    width: 100vw;
+    justify-content: space-around;
+}
+
+.item-3 {
+    height: 6rem;;
+    width: 10rem;
+}
+
+.item-4 {
+    height: 4rem;
+    width: 10rem;
+}
+
+.row-container-3 {
+    display: flex;
+    justify-content: center;
+    background-color: orange;
+}
+
+.covid {
+}
+
