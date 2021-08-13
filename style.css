@@ -61,3 +61,14 @@ header {
     border: 1px solid black;
     background-color: bisque;
 }
+
+span {
+    display:inline-block;
+    font-size: 26px;
+}
+
+.image-search {
+    position: relative;
+    top: -5rem;
+    left: 50rem;
+}
