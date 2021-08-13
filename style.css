@@ -50,3 +50,14 @@ header {
 .covid {
 }
 
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    width: 25rem;
+    height: 10rem;
+    border: 1px solid black;
+    background-color: bisque;
+}
